@@ -1,7 +1,7 @@
 
 # basis-period-reform-api-stubs
 
-This is a placeholder README.md for a new repository
+This repository contains stubbed endpoints for use in testing the basis period reform api
 
 ### License
 
