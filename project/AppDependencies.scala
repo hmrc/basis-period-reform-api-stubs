@@ -16,5 +16,5 @@ object AppDependencies {
     "uk.gov.hmrc"             %% "bootstrap-test-play-30"     % bootstrapVersion            % Test
   )
 
-  val it = Seq.empty  
+  val it = Seq.empty
 }
