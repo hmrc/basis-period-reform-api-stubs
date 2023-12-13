@@ -1,0 +1,8 @@
+{
+  "__errors__": [
+    {
+      "code": 31001,
+      "message": "No search methods ready to be run. The following fields are obligatory: partnership_ref_number"
+    }
+  ]
+}
