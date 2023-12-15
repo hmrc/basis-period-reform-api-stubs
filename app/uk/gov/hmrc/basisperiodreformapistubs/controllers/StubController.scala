@@ -28,10 +28,11 @@ import uk.gov.hmrc.play.bootstrap.backend.controller.BackendController
 @Singleton()
 class StubController @Inject() (assets: Assets, cc: ControllerComponents)(implicit ec: ExecutionContext)
     extends BackendController(cc) {
+  private case class StubParameters(path: String, utr: Option[String], part: Option[String])
 
-  val errors: Map[(String, Option[String], Option[String]), Int] = List(
-    ("iv_overlap_relief_partnership", Some("987654321"), None) -> 400,
-    ("iv_overlap_sole_trader", Some("1000000A2"), None)        -> 400
+  private val errors: Map[StubParameters, Int] = List(
+    StubParameters("iv_overlap_relief_partnership", Some("987654321"), None) -> 400,
+    StubParameters("iv_overlap_sole_trader", Some("1000000A2"), None)        -> 400
   ).toMap
 
   def stub(path: String, utr: Option[String], part: Option[String]): Action[AnyContent] = Action.async { implicit request =>
@@ -53,7 +54,7 @@ class StubController @Inject() (assets: Assets, cc: ControllerComponents)(implic
     val file     = s"utr${utr.getOrElse("")}_part${part.getOrElse("")}.json"
     assets.at(fullPath, file)(request).map { result =>
       if (result.header.status == 404) NotFound(Json.parse(notFound))
-      new Result(result.header.copy(status = errors.getOrElse((path, utr, part), 200)), result.body)
+      new Result(result.header.copy(status = errors.getOrElse(StubParameters(path, utr, part), 200)), result.body)
     }
   }
 }
