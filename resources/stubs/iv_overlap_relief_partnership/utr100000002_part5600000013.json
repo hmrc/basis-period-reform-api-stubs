@@ -1,0 +1,10 @@
+{
+  "name": "iv_overlap_relief_partnership",
+  "elements": [],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=100000002&partnership_ref_number=5600000013"
+    }
+  ]
+}

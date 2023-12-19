@@ -1,0 +1,27 @@
+{
+  "name": "iv_overlap_relief_partnership",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "Mr D NICHOLLS",
+      "utr": 987654321,
+      "nino": "DN123456A",
+      "partnership_ref_number": 5600000015,
+      "date_you_became_a_partner": "1994-10-11T00:00:00",
+      "date_you_left_the_partnership": "1995-10-11T00:00:00",
+      "basis_period_starts": "1993-04-12T00:00:00",
+      "basis_period_ends": "1997-06-06T00:00:00",
+      "share_of_profit_or_loss": 1234567890.12,
+      "net_business_loss_partners": 2234567890.34,
+      "overlap_relief_used_this_year": 3234567890.56,
+      "overlap_profit_carried_forward": 4234567890.78
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=987654321&partnership_ref_number=5600000015"
+    }
+  ]
+}

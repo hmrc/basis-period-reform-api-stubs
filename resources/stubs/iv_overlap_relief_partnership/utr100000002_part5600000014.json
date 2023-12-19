@@ -1,0 +1,43 @@
+{
+  "name": "iv_overlap_relief_partnership",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MR WA WRIGHT",
+      "utr": 100000002,
+      "nino": "WW123456A",
+      "partnership_ref_number": 5600000014,
+      "date_you_became_a_partner": "1997-10-11T00:00:00",
+      "date_you_left_the_partnership": null,
+      "basis_period_starts": "1997-04-06T00:00:00",
+      "basis_period_ends": "1998-04-05T00:00:00",
+      "share_of_profit_or_loss": 1.12,
+      "net_business_loss_partners": 2.34,
+      "overlap_relief_used_this_year": 3.56,
+      "overlap_profit_carried_forward": 4.78
+    },
+    {
+      "seq_no": 2,
+      "tie_breaker": 1,
+      "name": "MR WA WRIGHT",
+      "utr": 100000002,
+      "nino": "WW123456A",
+      "partnership_ref_number": 5600000014,
+      "date_you_became_a_partner": "1997-10-11T00:00:00",
+      "date_you_left_the_partnership": null,
+      "basis_period_starts": "1998-04-06T00:00:00",
+      "basis_period_ends": "1999-04-05T00:00:00",
+      "share_of_profit_or_loss": 1.12,
+      "net_business_loss_partners": 2.34,
+      "overlap_relief_used_this_year": 3.56,
+      "overlap_profit_carried_forward": 4.78
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=100000002&partnership_ref_number=5600000014"
+    }
+  ]
+}

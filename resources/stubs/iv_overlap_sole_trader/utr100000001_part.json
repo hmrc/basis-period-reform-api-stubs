@@ -1,0 +1,55 @@
+{
+  "name": "iv_overlap_relief_sole_trader",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 2,
+      "name": "MR W WRIGHT",
+      "utr": 100000001,
+      "nino": "WW123456D",
+      "source_number": 200000001,
+      "name_of_business": "Bicycle Maker",
+      "description_of_business": "Manufacturer",
+      "date_of_commencement": "1997-01-27T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": null,
+      "accounting_period_starts": "1997-04-06T00:00:00",
+      "accounting_period_ends": "1998-04-05T00:00:00",
+      "basis_period_starts": "2008-01-28T00:00:00",
+      "basis_period_ends": "2008-01-29T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 1.11,
+      "overlap_profit_carried_forward": 2.22,
+      "net_business_profit": 3.33,
+      "net_business_loss": 4.44
+    },
+    {
+      "seq_no": 27,
+      "tie_breaker": 2,
+      "name": "MR W WRIGHT",
+      "utr": 100000001,
+      "nino": "WW123456D",
+      "source_number": 200000001,
+      "name_of_business": "Bicycle Maker",
+      "description_of_business": "Manufacturer",
+      "date_of_commencement": "1997-01-27T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": null,
+      "accounting_period_starts": "2023-04-06T00:00:00",
+      "accounting_period_ends": "2024-04-05T00:00:00",
+      "basis_period_starts": "2008-01-28T00:00:00",
+      "basis_period_ends": "2008-01-29T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 27.11,
+      "overlap_profit_carried_forward": 3.22,
+      "net_business_profit": 4.33,
+      "net_business_loss": 5.44
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=100000001"
+    }
+  ]
+}
