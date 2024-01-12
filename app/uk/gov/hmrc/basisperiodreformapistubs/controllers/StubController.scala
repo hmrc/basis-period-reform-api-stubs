@@ -32,7 +32,7 @@ class StubController @Inject() (assets: Assets, cc: ControllerComponents)(implic
 
   private val errors: Map[StubParameters, Int] = List(
     StubParameters("iv_overlap_relief_partnership", Some("987654321"), None) -> 400,
-    StubParameters("iv_overlap_relief_sole_trader", Some("1000000A2"), None)        -> 400
+    StubParameters("iv_overlap_relief_sole_trader", Some("1000000A2"), None) -> 400
   ).toMap
 
   def stub(path: String, utr: Option[String], part: Option[String]): Action[AnyContent] = Action.async { implicit request =>

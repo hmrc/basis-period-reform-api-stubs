@@ -15,7 +15,6 @@ ThisBuild / semanticdbVersion := scalafixSemanticdb.revision
 lazy val microservice = Project(appName, file("."))
   .enablePlugins(play.sbt.PlayScala, SbtDistributablesPlugin)
   .settings(
-    targetJvm           := "jvm-11",
     libraryDependencies ++= AppDependencies.compile ++ AppDependencies.test,
     // https://www.scala-lang.org/2021/01/12/configuring-and-suppressing-warnings.html
     // suppress warnings in generated routes files
@@ -39,7 +38,7 @@ lazy val microservice = Project(appName, file("."))
 lazy val it = project
   .enablePlugins(PlayScala)
   .dependsOn(microservice % "test->test")
-  .settings(itSettings)
+  .settings(itSettings())
   .settings(libraryDependencies ++= AppDependencies.it)
 
 Global / bloopAggregateSourceDependencies := true
