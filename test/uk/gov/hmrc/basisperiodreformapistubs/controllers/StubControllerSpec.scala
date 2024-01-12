@@ -35,11 +35,11 @@ class StubControllerSpec extends AnyWordSpec with Matchers with OptionValues wit
 
   "GET" should {
     "return 200 and a file for sole trader" in {
-      val result = doGet("/iv_overlap_sole_trader?utr=100000002")
+      val result = doGet("/iv_overlap_relief_sole_trader?utr=100000002")
       status(result) shouldBe Status.OK
     }
     "return 400 and a file for sole trader" in {
-      val result = doGet("/iv_overlap_sole_trader?utr=1000000A2")
+      val result = doGet("/iv_overlap_relief_sole_trader?utr=1000000A2")
       status(result) shouldBe Status.BAD_REQUEST
     }
     "return 200 and a file for relief partnership" in {
