@@ -15,7 +15,14 @@
       "share_of_profit_or_loss": 1.12,
       "net_business_loss_partners": 2.34,
       "overlap_relief_used_this_year": 3.56,
-      "overlap_profit_carried_forward": 4.78
+      "overlap_profit_carried_forward": 4.78,
+      "tax_year": 2024,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/100000002,5600000014"
+        }
+      ]
     },
     {
       "seq_no": 2,
@@ -31,7 +38,14 @@
       "share_of_profit_or_loss": 1.12,
       "net_business_loss_partners": 2.34,
       "overlap_relief_used_this_year": 3.56,
-      "overlap_profit_carried_forward": 4.78
+      "overlap_profit_carried_forward": 4.78,
+      "tax_year": 2024,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/100000002,5600000014"
+        }
+      ]
     }
   ],
   "links": [
