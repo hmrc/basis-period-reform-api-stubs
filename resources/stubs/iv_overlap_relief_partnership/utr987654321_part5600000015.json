@@ -15,7 +15,14 @@
       "share_of_profit_or_loss": 1234567890.12,
       "net_business_loss_partners": 2234567890.34,
       "overlap_relief_used_this_year": 3234567890.56,
-      "overlap_profit_carried_forward": 4234567890.78
+      "overlap_profit_carried_forward": 4234567890.78,
+      "tax_year": 2024,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/987654321,5600000015"
+        }
+      ]
     }
   ],
   "links": [
