@@ -1,0 +1,40 @@
+{
+  "name": "iv_overlap_relief_sole_trader",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MRS*M*WATSON",
+      "utr": 8810000004,
+      "nino": "AD123453I",
+      "source_number": 1,
+      "name_of_business": "Myth",
+      "description_of_business": "DRESSMAKER",
+      "date_of_commencement": null,
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "2020-05-01T00:00:00",
+      "accounting_period_ends": "2021-10-31T00:00:00",
+      "basis_period_starts": "2020-05-01T00:00:00",
+      "basis_period_ends": "2021-10-31T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 2232,
+      "overlap_profit_carried_forward": 1893,
+      "net_business_profit": 1518,
+      "net_business_loss": 0,
+      "tax_year": 2022,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8810000004"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=8810000004"
+    }
+  ]
+}
