@@ -1,0 +1,57 @@
+{
+  "name": "iv_overlap_relief_partnership",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MRS*W*JACKSON",
+      "utr": 8850000007,
+      "nino": "AZ123475E",
+      "partnership_ref_number": 5534567007,
+      "date_you_became_a_partner": null,
+      "date_you_left_the_partnership": null,
+      "basis_period_starts": "2003-09-01T00:00:00",
+      "basis_period_ends": "2005-04-05T00:00:00",
+      "share_of_profit_or_loss": 16012,
+      "net_business_loss_partners": null,
+      "overlap_relief_used_this_year": 3702,
+      "overlap_profit_carried_forward": 0,
+      "tax_year": 2005,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8850000007,5534567007"
+        }
+      ]
+    },
+    {
+      "seq_no": 2,
+      "tie_breaker": 1,
+      "name": "MRS*W*JACKSON",
+      "utr": 8850000007,
+      "nino": "AZ123475E",
+      "partnership_ref_number": 5534567007,
+      "date_you_became_a_partner": null,
+      "date_you_left_the_partnership": null,
+      "basis_period_starts": "2004-01-01T00:00:00",
+      "basis_period_ends": "2005-04-05T00:00:00",
+      "share_of_profit_or_loss": -436,
+      "net_business_loss_partners": null,
+      "overlap_relief_used_this_year": 816,
+      "overlap_profit_carried_forward": 0,
+      "tax_year": 2005,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8850000007,5534567007"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=8850000007&partnership_ref_number=5534567007"
+    }
+  ]
+}

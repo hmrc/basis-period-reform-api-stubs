@@ -1,0 +1,69 @@
+{
+  "name": "iv_overlap_relief_sole_trader",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MR*F*KEN",
+      "utr": 8820000003,
+      "nino": "AJ123459O",
+      "source_number": null,
+      "name_of_business": null,
+      "description_of_business": "Scaffolder",
+      "date_of_commencement": "2004-02-01T00:00:00",
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "2005-04-06T00:00:00",
+      "accounting_period_ends": "2005-06-30T00:00:00",
+      "basis_period_starts": "2005-04-06T00:00:00",
+      "basis_period_ends": "2005-06-30T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 0,
+      "overlap_profit_carried_forward": 29589,
+      "net_business_profit": 54528,
+      "net_business_loss": null,
+      "tax_year": 2006,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8820000003"
+        }
+      ]
+    },
+    {
+      "seq_no": 2,
+      "tie_breaker": 1,
+      "name": "MR*F*EKN",
+      "utr": 8820000003,
+      "nino": "AJ123459O",
+      "source_number": null,
+      "name_of_business": null,
+      "description_of_business": "Scaffolder",
+      "date_of_commencement": "2004-02-01T00:00:00",
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "2005-07-01T00:00:00",
+      "accounting_period_ends": "2006-03-31T00:00:00",
+      "basis_period_starts": "2005-07-01T00:00:00",
+      "basis_period_ends": "2006-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 29589,
+      "overlap_profit_carried_forward": 0,
+      "net_business_profit": 13693,
+      "net_business_loss": null,
+      "tax_year": 2006,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8820000003"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=8820000003"
+    }
+  ]
+}

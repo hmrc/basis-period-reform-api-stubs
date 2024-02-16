@@ -1,0 +1,40 @@
+{
+  "name": "iv_overlap_relief_sole_trader",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MR*T*YAGOO",
+      "utr": 8810000002,
+      "nino": "AB123451G",
+      "source_number": null,
+      "name_of_business": "Yagoo Haul",
+      "description_of_business": "Haulage",
+      "date_of_commencement": null,
+      "commencement_sig": null,
+      "date_ceased": "2022-01-31T00:00:00",
+      "accounting_period_starts": "2021-11-01T00:00:00",
+      "accounting_period_ends": "2022-01-31T00:00:00",
+      "basis_period_starts": "2020-11-01T00:00:00",
+      "basis_period_ends": "2022-01-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12112,
+      "overlap_profit_carried_forward": 0,
+      "net_business_profit": 1277,
+      "net_business_loss": 0,
+      "tax_year": 2022,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8810000002"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=8810000002"
+    }
+  ]
+}

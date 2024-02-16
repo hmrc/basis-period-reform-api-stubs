@@ -1,0 +1,80 @@
+{
+  "name": "iv_overlap_relief_partnership",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MR*S*BRIGGS",
+      "utr": 8850000001,
+      "nino": "AU123470Z",
+      "partnership_ref_number": 5534567001,
+      "date_you_became_a_partner": null,
+      "date_you_left_the_partnership": null,
+      "basis_period_starts": "2005-01-25T00:00:00",
+      "basis_period_ends": "2005-03-31T00:00:00",
+      "share_of_profit_or_loss": -112,
+      "net_business_loss_partners": null,
+      "overlap_relief_used_this_year": 0,
+      "overlap_profit_carried_forward": 0,
+      "tax_year": 2005,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8850000001,5534567001"
+        }
+      ]
+    },
+    {
+      "seq_no": 2,
+      "tie_breaker": 1,
+      "name": "MR*S*BRIGGS",
+      "utr": 8850000001,
+      "nino": "AU123470Z",
+      "partnership_ref_number": 5534567001,
+      "date_you_became_a_partner": null,
+      "date_you_left_the_partnership": "2004-12-31T00:00:00",
+      "basis_period_starts": "2004-01-01T00:00:00",
+      "basis_period_ends": "2004-12-31T00:00:00",
+      "share_of_profit_or_loss": 8424,
+      "net_business_loss_partners": null,
+      "overlap_relief_used_this_year": 2696,
+      "overlap_profit_carried_forward": 0,
+      "tax_year": 2005,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8850000001,5534567001"
+        }
+      ]
+    },
+    {
+      "seq_no": 3,
+      "tie_breaker": 1,
+      "name": "MR*S*BRIGGS",
+      "utr": 8850000001,
+      "nino": "AU123470Z",
+      "partnership_ref_number": 5534567001,
+      "date_you_became_a_partner": null,
+      "date_you_left_the_partnership": null,
+      "basis_period_starts": "2004-01-01T00:00:00",
+      "basis_period_ends": "2004-12-31T00:00:00",
+      "share_of_profit_or_loss": 31701,
+      "net_business_loss_partners": null,
+      "overlap_relief_used_this_year": 0,
+      "overlap_profit_carried_forward": 3763,
+      "tax_year": 2005,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8850000001,5534567001"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=8850000001&partnership_ref_number=5534567001"
+    }
+  ]
+}
