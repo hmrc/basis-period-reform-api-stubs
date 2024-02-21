@@ -1,26 +1,90 @@
 {
-  "name": "iv_overlap_relief_partnership",
+  "name": "iv_overlap_relief_sole_trader",
   "elements": [
     {
       "seq_no": 1,
       "tie_breaker": 1,
-      "name": "MRS*S*TAYLOR",
-      "utr": 8840000007,
-      "nino": "AT123469Y",
-      "partnership_ref_number": 4434567006,
-      "date_you_became_a_partner": null,
-      "date_you_left_the_partnership": null,
-      "basis_period_starts": "2018-02-01T00:00:00",
-      "basis_period_ends": "2019-01-31T00:00:00",
-      "share_of_profit_or_loss": -1040,
-      "net_business_loss_partners": null,
-      "overlap_relief_used_this_year": 1457,
+      "name": "MR*M H*FARROW",
+      "utr": 8820000007,
+      "nino": null,
+      "source_number": null,
+      "name_of_business": "Esso",
+      "description_of_business": "Esso Petrol Retailer",
+      "date_of_commencement": "2005-02-02T00:00:00",
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "2005-02-02T00:00:00",
+      "accounting_period_ends": "2006-10-16T00:00:00",
+      "basis_period_starts": "2005-04-01T00:00:00",
+      "basis_period_ends": "2006-03-31T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 0,
       "overlap_profit_carried_forward": 0,
-      "tax_year": 2019,
+      "net_business_profit": 18824,
+      "net_business_loss": null,
+      "tax_year": 2006,
       "links": [
         {
           "rel": "self",
-          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8840000007,4434567006"
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8820000007"
+        }
+      ]
+    },
+    {
+      "seq_no": 2,
+      "tie_breaker": 1,
+      "name": "MR*M H*FARROW",
+      "utr": 8820000007,
+      "nino": null,
+      "source_number": null,
+      "name_of_business": "Shell",
+      "description_of_business": "Petrol Retail ",
+      "date_of_commencement": "2005-11-01T00:00:00",
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "2005-11-01T00:00:00",
+      "accounting_period_ends": "2006-03-31T00:00:00",
+      "basis_period_starts": "2005-11-01T00:00:00",
+      "basis_period_ends": "2006-03-31T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 0,
+      "overlap_profit_carried_forward": 0,
+      "net_business_profit": 17086,
+      "net_business_loss": null,
+      "tax_year": 2006,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8820000007"
+        }
+      ]
+    },
+    {
+      "seq_no": 3,
+      "tie_breaker": 1,
+      "name": "MR*M H*FARROW",
+      "utr": 8820000007,
+      "nino": null,
+      "source_number": null,
+      "name_of_business": "BP",
+      "description_of_business": "Esso Petrol Retailer ",
+      "date_of_commencement": "2003-06-01T00:00:00",
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "2004-06-01T00:00:00",
+      "accounting_period_ends": "2006-03-31T00:00:00",
+      "basis_period_starts": "2004-06-01T00:00:00",
+      "basis_period_ends": "2005-05-31T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 13337,
+      "overlap_profit_carried_forward": 0,
+      "net_business_profit": 7701,
+      "net_business_loss": null,
+      "tax_year": 2006,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8820000007"
         }
       ]
     }
@@ -28,7 +92,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=8840000007&partnership_ref_number=4434567006"
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=8820000007"
     }
   ]
 }
