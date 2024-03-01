@@ -1,0 +1,796 @@
+{
+  "name": "iv_overlap_relief_sole_trader",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2023,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 2,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2022,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 3,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2021,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 4,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2020,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 5,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2019,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 6,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2018,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 7,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2017,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 8,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2016,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 9,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2015,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 10,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2014,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 11,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2013,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 12,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2012,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 13,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2011,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 14,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2010,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 15,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2009,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 16,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2008,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 17,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2007,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 18,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2006,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 19,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2005,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 20,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2004,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 21,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2003,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 22,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2002,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 23,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2001,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 24,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 2000,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 25,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 1999,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 26,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 1998,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    },
+    {
+      "seq_no": 27,
+      "tie_breaker": 1,
+      "name": "MR*C*HOWEL",
+      "utr": 8910000009,
+      "nino": "HK234567T",
+      "source_number": 1,
+      "name_of_business": "Howel nursery",
+      "description_of_business": "Nursery",
+      "date_of_commencement": "2006-01-15T00:00:00",
+      "commencement_sig": "Y",
+      "date_ceased": "2022-12-18T00:00:00",
+      "accounting_period_starts": "2021-02-01T00:00:00",
+      "accounting_period_ends": "2022-03-31T00:00:00",
+      "basis_period_starts": "2021-02-01T00:00:00",
+      "basis_period_ends": "2022-03-31T00:00:00",
+      "accounting_date_changed": "Y",
+      "overlap_relief_used_this_year": 12987,
+      "overlap_profit_carried_forward": 345,
+      "net_business_profit": 23001,
+      "net_business_loss": 0,
+      "tax_year": 1997,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/8910000009"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=8910000009"
+    }
+  ]
+}
+
+
