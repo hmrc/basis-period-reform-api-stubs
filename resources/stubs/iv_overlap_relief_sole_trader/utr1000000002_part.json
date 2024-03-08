@@ -1,0 +1,40 @@
+{
+  "name": "iv_overlap_relief_sole_trader",
+  "elements": [
+    {
+      "seq_no": null,
+      "tie_breaker": null,
+      "name": "MR*A*SMITH2",
+      "utr": 1000000002,
+      "nino": "AB100002A",
+      "source_number": null,
+      "name_of_business": null,
+      "description_of_business": "GROUND MAINTENANCE GDNING",
+      "date_of_commencement": "1996-07-15T00:00:00",
+      "commencement_sig": null,
+      "date_ceased": null,
+      "accounting_period_starts": "1996-07-15T00:00:00",
+      "accounting_period_ends": "1997-07-31T00:00:00",
+      "basis_period_starts": "1996-07-15T00:00:00",
+      "basis_period_ends": "1997-07-31T00:00:00",
+      "accounting_date_changed": "N",
+      "overlap_relief_used_this_year": 3560,
+      "overlap_profit_carried_forward": 0,
+      "net_business_profit": 0,
+      "net_business_loss": 0,
+      "tax_year": 1998,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader/1000000002"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_sole_trader/views/iv_overlap_relief_sole_trader?utr=1000000002"
+    }
+  ]
+}
