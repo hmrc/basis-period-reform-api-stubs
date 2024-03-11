@@ -1,0 +1,34 @@
+{
+  "name": "iv_overlap_relief_partnership",
+  "elements": [
+    {
+      "seq_no": 1,
+      "tie_breaker": 1,
+      "name": "MR*A*LAM",
+      "utr": 8900000123,
+      "nino": "AL234567B",
+      "partnership_ref_number": 4434567001,
+      "date_you_became_a_partner": "2016-01-09T00:00:00",
+      "date_you_left_the_partnership": "2023-10-02T00:00:00",
+      "basis_period_starts": "2018-07-22T00:00:00",
+      "basis_period_ends": "2019-06-18T00:00:00",
+      "share_of_profit_or_loss": 3432,
+      "net_business_loss_partners": 540,
+      "overlap_relief_used_this_year": 543,
+      "overlap_profit_carried_forward": 422,
+      "tax_year": 2023,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership/8900000123,4434567001"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://vdp.dev.denodo.hip.ns2n.corp.hmrc.gov.uk:9443/server/basis_period_reform/ws_overlap_relief_partnership/views/iv_overlap_relief_partnership?utr=8900000123&partnership_ref_number=4434567001"
+    }
+  ]
+}
